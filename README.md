@@ -5,6 +5,8 @@
 My name is Rafael de Lima Gomes
 
 - 📖 I'm a Control and Automation Engineering Student at Federal University of Uberlândia - UFU
+- I'm an enthusiast of technology, automation and electrical projects.
+  
 
 
 ## Tools and Technologies ⚡
