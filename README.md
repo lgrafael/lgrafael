@@ -11,9 +11,11 @@ My name is Rafael de Lima Gomes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,python,arduino,c,vim" />
   </a>
 </p>
+
+## My GitHub Stats
 
 
 ## How to reach me
