@@ -11,12 +11,12 @@ My name is Rafael de Lima Gomes
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,arduino,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,python,arduino,matlab,c,vim,autocad," />
   </a>
 </p>
 
 ## My GitHub Stats
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgrafael&theme=blue&green_icons=true)
 
 ## How to reach me
 <div>
