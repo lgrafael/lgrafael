@@ -15,7 +15,7 @@ My name is Rafael de Lima Gomes
   </a>
 </p>
 
-## My GitHub Stats
+## My GitHub Stats 📈
 
 <div align="center">
   <a href="https://github.com/lgrafael">
