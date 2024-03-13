@@ -1,10 +1,13 @@
 ### 👋 Hello! Welcome to my Github profile.
-### My name is Rafael de Lima Gomes
 
-I'm a Control and Automation Engineering Student at Federal University of Uberlândia - UFU
+## About Me
+
+# My name is Rafael de Lima Gomes
+
+- 📖 I'm a Control and Automation Engineering Student at Federal University of Uberlândia - UFU
 
 
-Tools and Technologies ⚡
+## Tools and Technologies ⚡
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -13,7 +16,7 @@ Tools and Technologies ⚡
 </p>
 
 
-How to reach me
+## How to reach me
 <div>
   <a href="https://www.linkedin.com/in/rafael-de-lima-gomes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:rafaelimag2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
