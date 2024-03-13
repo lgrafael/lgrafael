@@ -2,7 +2,7 @@
 
 ## About Me
 
-# My name is Rafael de Lima Gomes
+My name is Rafael de Lima Gomes
 
 - 📖 I'm a Control and Automation Engineering Student at Federal University of Uberlândia - UFU
 
