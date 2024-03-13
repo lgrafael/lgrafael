@@ -16,7 +16,12 @@ My name is Rafael de Lima Gomes
 </p>
 
 ## My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgrafael&theme=blue&green_icons=true)
+
+<div align="center">
+  <a href="https://github.com/lgrafael">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lgrafael&theme=blue-green&show_icons=true&include_all_commits=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lgrafael&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
 
 ## How to reach me
 <div>
